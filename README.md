@@ -38,4 +38,4 @@ Check out my repositories for security automation scripts and tools!
 
 ---
 
-*Eligible for U.S. Government Security Clearance* 🇺🇸
+*Eligible for U.S. Government Security Clearance*
