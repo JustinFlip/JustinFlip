@@ -27,7 +27,7 @@ I help organizations strengthen their security posture through:
 
 ## 🚀 My Projects
 
-Check out my repositories for security automation scripts and tools!
+Check out my pinned repositories for security automation scripts and tools!
 
 ---
 
