@@ -34,8 +34,7 @@ Check out my pinned repositories for security automation scripts and tools!
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/justinflip/](https://linkedin.com/in/justinflip/)
-- **GitHub:** [@JustinFlip](https://github.com/JustinFlip)
-
+  
 ---
 
 *Eligible for U.S. Government Security Clearance*
