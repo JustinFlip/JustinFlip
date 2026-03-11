@@ -2,7 +2,7 @@
 
 I'm **Justin Flip**, an experienced security professional specializing in endpoint security, cloud infrastructure (Azure/Intune), PowerShell automation, and SIEM analysis. 
 
-I'm skilled at resolving complex security incidents and collaborating across technical teams to improve security posture. I'm eligible for U.S. Government Security Clearance.
+I'm skilled at resolving complex security incidents and collaborating across technical teams to improve security posture.
 
 ---
 
